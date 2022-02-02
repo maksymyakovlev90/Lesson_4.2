@@ -1,0 +1,48 @@
+/*@import "null.css";*/
+
+header{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 200%;
+    display: flex;
+    align-items: center;
+    color: #1E212C;
+}
+
+.paragraph_one{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 150%;
+    color: #1E212C;
+}
+
+.paragraph_two{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 160%;
+    color: #424551;
+}
+
+.paragraph_three{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 150%;
+    color: #1E212C;
+}
+
+.paragraph_four{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 160%;
+    color: #424551;
+}
